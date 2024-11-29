@@ -1,0 +1,12 @@
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\bin\Debug\Ders-38(Pansiyon Kayıt Uygulaması).exe.config
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\bin\Debug\Ders-38(Pansiyon Kayıt Uygulaması).exe
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\bin\Debug\Ders-38(Pansiyon Kayıt Uygulaması).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).csproj.AssemblyReference.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).csproj.SuggestedBindingRedirects.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders_38_Pansiyon_Kayıt_Uygulaması_.Properties.Resources.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).csproj.GenerateResource.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).csproj.CoreCompileInputs.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).exe
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders_38_Pansiyon_Kayıt_Uygulaması_.FrmAdmin.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders_38_Pansiyon_Kayıt_Uygulaması_.FrmKayıtForm.resources

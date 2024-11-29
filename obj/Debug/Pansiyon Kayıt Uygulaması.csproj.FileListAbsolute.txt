@@ -1,0 +1,11 @@
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\bin\Debug\Ders-38(Pansiyon Kayıt Uygulaması).exe.config
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\bin\Debug\Ders-38(Pansiyon Kayıt Uygulaması).exe
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\bin\Debug\Ders-38(Pansiyon Kayıt Uygulaması).pdb
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.AssemblyReference.cache
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders_38_Pansiyon_Kayıt_Uygulaması_.FrmKayıtForm.resources
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders_38_Pansiyon_Kayıt_Uygulaması_.AdminSayfasi.resources
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders_38_Pansiyon_Kayıt_Uygulaması_.Properties.Resources.resources
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.GenerateResource.cache
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Pansiyon Kayıt Uygulaması.csproj.CoreCompileInputs.cache
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).exe
+D:\Selman\Selman's Project\Ders-38(Pansiyon Kayıt Uygulaması)\obj\Debug\Ders-38(Pansiyon Kayıt Uygulaması).pdb
